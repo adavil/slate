@@ -1,5 +1,5 @@
-require('../src/scripts/slate/utils');
-require('../src/scripts/slate/currency');
+require('/packages/slate-theme/src/scripts/slate/utils');
+require('/packages/slate-theme/src/scripts/slate/currency');
 
 var formatMoney = slate.Currency.formatMoney;
 
